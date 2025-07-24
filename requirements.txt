@@ -1,0 +1,7 @@
+streamlit
+deepface==0.0.79
+mtcnn
+opencv-python-headless
+pandas
+numpy
+Pillow
