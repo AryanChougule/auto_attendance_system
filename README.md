@@ -152,8 +152,8 @@ For real-world deployment, please consider adding:
 
 If you’re a school, developer, or investor looking to scale this:
 - 📧 Email: yourname@example.com
-- 🧠 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- ⭐ GitHub: [yourusername](https://github.com/yourusername)
+- 🧠 LinkedIn: [your-profile](https://linkedin.com/in/aryanpravinchougule)
+- ⭐ GitHub: [yourusername](https://github.com/AryanChougule)
 
 ---
 
