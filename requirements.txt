@@ -1,19 +1,13 @@
-# 🚀 Core (Streamlit + Dependencies)
-streamlit==1.28.0
-protobuf==3.20.3  # Prevents conflicts with TensorFlow
 
-# 🔍 Face Detection & Recognition
-deepface==0.0.79
-mtcnn==0.1.1  # Works with TF 2.x
-
-# 🤖 Machine Learning & CV
-tensorflow==2.15.0  # Newer stable version (supports Python 3.10+)
-keras==2.15.0        # Matches TF 2.15
-opencv-python-headless==4.8.0.74  # Cloud-compatible
-numpy==1.26.0        # Compatible with TF 2.15
-pandas==2.1.4        # Modern version
-Pillow==10.1.0       # Image processing
-
-# 📦 Misc Utilities
-gdown==4.7.1         # For DeepFace model downloads
-tqdm==4.66.1         # Progress bars
+streamlit
+protobuf  
+deepface
+mtcnn 
+tensorflow  
+keras        
+opencv-python-headless 
+numpy       
+pandas       
+Pillow
+gdown
+tqdm
