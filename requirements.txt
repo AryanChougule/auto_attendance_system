@@ -8,8 +8,7 @@ mtcnn==0.1.0             # Correct version from PyPI
 # ✅ OpenCV (latest supported version)
 opencv-python==4.12.0.88
 
-# ✅ ML Dependencies
-tensorflow==2.12.0       # Works with deepface 0.0.93
+      # Works with deepface 0.0.93
 numpy==1.26.4
 pandas==2.2.2
 Pillow==10.3.0
