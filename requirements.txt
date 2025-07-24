@@ -1,21 +1,19 @@
-# 🚀 Core
-streamlit==1.28.0
-protobuf==3.20.3
+# ✅ Core App
+streamlit==1.27.2
 
-# 🔍 Face Recognition
-deepface==0.0.79
-mtcnn
+# ✅ Face Detection & Recognition
+deepface==0.0.93          # Works with TensorFlow 2.x (Render supports this)
+mtcnn==1.0.0
 
-
-
-# 🖼️ Computer Vision
-opencv-python-headless==4.8.0.74
-numpy==1.26.0
+# ✅ CV and ML Dependencies
+opencv-python==4.11.0     # Full OpenCV since Render allows GUI backends
+numpy==1.26.4
+pandas==2.2.3
 Pillow==10.1.0
 
-# 📊 Data Handling
-pandas==2.1.4
+# ✅ Utilities
+gdown==5.2.0
+tqdm==4.66.2
 
-# 📦 Utilities
-gdown==4.7.1
-tqdm==4.66.1
+# ✅ TensorFlow (explicitly required by DeepFace)
+tensorflow==2.12.0
