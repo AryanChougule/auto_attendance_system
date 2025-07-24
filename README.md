@@ -151,9 +151,9 @@ For real-world deployment, please consider adding:
 ## 📬 Connect With Me
 
 If you’re a school, developer, or investor looking to scale this:
-- 📧 Email: yourname@example.com
-- 🧠 LinkedIn: [your-profile](https://linkedin.com/in/aryanpravinchougule)
-- ⭐ GitHub: [yourusername](https://github.com/AryanChougule)
+- 📧 Email: aryanchougule4747@example.com
+- 🧠 LinkedIn: [Click Here](https://www.linkedin.com/in/aryanpravinchougule/)
+- ⭐ GitHub: [Click Here](https://github.com/AryanChougule)
 
 ---
 
