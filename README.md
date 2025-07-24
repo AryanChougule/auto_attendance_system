@@ -151,7 +151,7 @@ For real-world deployment, please consider adding:
 ## 📬 Connect With Me
 
 If you’re a school, developer, or investor looking to scale this:
-- 📧 Email: aryanchougule4747@example.com
+- 📧 Email: aryanchougule4747@gmail.com
 - 🧠 LinkedIn: [Click Here](https://www.linkedin.com/in/aryanpravinchougule/)
 - ⭐ GitHub: [Click Here](https://github.com/AryanChougule)
 
