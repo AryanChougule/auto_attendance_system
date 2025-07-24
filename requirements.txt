@@ -1,13 +1,23 @@
+# 🚀 Core
+streamlit==1.28.0
+protobuf==3.20.3
 
-streamlit
-protobuf  
-deepface
-mtcnn 
-tensorflow  
-keras        
-opencv-python-headless 
-numpy       
-pandas       
-Pillow
-gdown
-tqdm
+# 🔍 Face Recognition
+deepface==0.0.79
+mtcnn==0.1.1
+
+# 🤖 Machine Learning
+tensorflow-cpu==2.15.0  # Use CPU version for cloud compatibility
+keras==2.15.0
+
+# 🖼️ Computer Vision
+opencv-python-headless==4.8.0.74
+numpy==1.26.0
+Pillow==10.1.0
+
+# 📊 Data Handling
+pandas==2.1.4
+
+# 📦 Utilities
+gdown==4.7.1
+tqdm==4.66.1
