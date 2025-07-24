@@ -1,19 +1,19 @@
-# ✅ Core App
+# ✅ Core Streamlit App
 streamlit==1.27.2
 
-# ✅ Face Detection & Recognition
-deepface==0.0.93          # Works with TensorFlow 2.x (Render supports this)
-mtcnn==1.0.0
+# ✅ Face Detection and Recognition
+deepface==0.0.93         # Stable version with improved ArcFace + TF2.12
+mtcnn==0.1.0             # Correct version from PyPI
 
-# ✅ CV and ML Dependencies
-opencv-python==4.11.0     # Full OpenCV since Render allows GUI backends
+# ✅ OpenCV (latest supported version)
+opencv-python==4.12.0.88
+
+# ✅ ML Dependencies
+tensorflow==2.12.0       # Works with deepface 0.0.93
 numpy==1.26.4
-pandas==2.2.3
-Pillow==10.1.0
+pandas==2.2.2
+Pillow==10.3.0
 
-# ✅ Utilities
+# ✅ Deepface internals
 gdown==5.2.0
 tqdm==4.66.2
-
-# ✅ TensorFlow (explicitly required by DeepFace)
-tensorflow==2.12.0
