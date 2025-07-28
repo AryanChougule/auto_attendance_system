@@ -1,18 +1,7 @@
-# ✅ Core Streamlit App
 streamlit==1.27.2
-
-# ✅ Face Detection and Recognition
-deepface==0.0.93         # Stable version with improved ArcFace + TF2.12
-mtcnn==0.1.0             # Correct version from PyPI
-
-# ✅ OpenCV (latest supported version)
-opencv-python==4.12.0.88
-
-      # Works with deepface 0.0.93
-numpy==1.26.4
+deepface==0.0.93
+mtcnn==1.0.0
+opencv-python-headless==4.12.0.88
 pandas==2.2.2
+numpy==1.26.4
 Pillow==10.3.0
-
-# ✅ Deepface internals
-gdown==5.2.0
-tqdm==4.66.2
